@@ -81,6 +81,7 @@ article ul {
 aside {
   background-color: #deadff;
   border: 2px solid #6c3d8e;
+  text-align: center;
 }
 
 aside p {
